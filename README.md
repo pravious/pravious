@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pravious
+- 👋 Hi, I’m @pravious.
 - 👀 I’m interested in learning just about anything related to computer science.
 - 🌱 I’m currently learning Python and data analytics.
 - 💞️ I’m looking to collaborate on anything my current skillset allows me to.
